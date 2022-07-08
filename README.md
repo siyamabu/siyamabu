@@ -1,10 +1,9 @@
-<h1> 👋 Hi, I'm Siya! <br/><a>Data Analyst</a>, <a>Data Scientist</a></h2>
+<h1> 👋 Hi, I'm Siya! </h2>
 
-- 🔭 I’m currently interested in Data Analytics and Machine Learning. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🔭 I am a data analytics and machine learning enthusiast. 
+- 🌱 I recently graduated from Luther College with a Bachelors of Art Degree in Data Science and Management. 
+- 🤔 I am looking for full time positions in data Analytics and data science. 
+- 💬 Ask me about my background and my technical skills. 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth.
 
