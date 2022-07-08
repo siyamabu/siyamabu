@@ -32,7 +32,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[email]: https://siyamabu@gmail.com
+[linkedin]: http://www.linkedin.com/in/siyabonga-mabuza-a352bb187
 
 
 <!--
