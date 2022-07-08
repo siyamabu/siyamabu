@@ -6,6 +6,7 @@
 - 💬 Do not hesitate to pull requests for my projects! For major changes, please open an issue first to discuss what you would like to change or contribute.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth.
+- 💞️ Hobbies: I'm an avid supporter of Arsenal FC and love going on trail runs. 
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
