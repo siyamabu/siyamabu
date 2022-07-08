@@ -3,7 +3,7 @@
 - 🔭 I am a data analytics and machine learning enthusiast. 
 - 🌱 I recently graduated from Luther College with a Bachelors of Art Degree in Data Science and Management. 
 - 🤔 I am looking for full time positions in Data Analytics and Data Science. 
-- 💬 Do not hesitate to Pull requests! For major changes, please open an issue first to discuss what you would like to change or contribute.
+- 💬 Do not hesitate to pull requests for my projects! For major changes, please open an issue first to discuss what you would like to change or contribute.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth.
 
