@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I'm Siya! </h2>
 
 - 🔭 I am a data analytics and machine learning enthusiast. 
-- 🌱 I recently graduated from Luther College with a Bachelors of Art Degree in Data Science and Management. 
+- 🌱 I recently graduated from Luther College with a Bachelors of Art Degree in Data Science and Management with a concentration in Marketing. 
 - 🤔 I am looking for full time positions in Data Analytics and Data Science. 
 - 💬 Do not hesitate to pull requests for my projects! For major changes, please open an issue first to discuss what you would like to change or contribute.
 - 😄 Pronouns: He/Him/His
