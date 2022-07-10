@@ -12,8 +12,11 @@
 
 - <b> Python </b>
   - [Predicting Countries' Life Expectancy using Immunization related, Mortality, Economical, and Social Factors](https://github.com/siyamabu/Life-Expectancy)
+  - [Predicting if a Client Will Subcribe to a Portuguese Banking Campaign](https://github.com/siyamabu/Portuguese-Banking-Campaign)
+  - [Predicting The Sales Price of a Building in New York City](https://github.com/siyamabu/New-York-Real-Estate)
 - <b> R </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [What Makes Portuguese Vinho Verde Wine Fine?](https://github.com/siyamabu/Vinho-Verde-Wine) 
+  - [Graduate School Acceptance Probability](https://github.com/siyamabu/Graduate-School-Acceptance-) 
   
 <h2>📚Research Papers :</h2>
 
